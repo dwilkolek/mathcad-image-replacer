@@ -300,9 +300,7 @@
 </text>
 </region>
 <region region-id="27" height="127.55687462144152" width="475.72440944881885" actualWidth="475.72440944881885" actualHeight="127.55687462144152" top="642.51968503937007" left="75.590551181102356">
-<picture>
-<jpg item-idref="R7e54630d9bc24ae8" display-width="475.724409448819" display-height="127.556874621442" />
-</picture>
+<picture><jpg item-idref="R7e54630d9bc24ae8" display-width="475.724409448819" display-height="127.556874621442" /></picture>
 </region>
 <region region-id="28" width="605" actualWidth="605" actualHeight="18.4" top="793.70078740157476" left="0">
 <text item-idref="R97608c238c0c459f">
@@ -5785,9 +5783,7 @@
 </math>
 </region>
 <region region-id="352" height="280.38602321214381" width="473.04896696107323" actualWidth="473.04896696107323" actualHeight="280.38602321214381" top="8012.5984251968493" left="56.69291338582677">
-<picture>
-<png item-idref="R0bc8449f817f45b1" display-width="473.048966961073" display-height="280.386023212144" />
-</picture>
+<picture><png item-idref="R0bc8449f817f45b1" display-width="473.048966961073" display-height="280.386023212144" /></picture>
 </region>
 <region region-id="353" width="604" actualWidth="604" actualHeight="18.4" top="8314.96062992126" left="0">
 <text item-idref="R014a0dff31fa4fb3">
@@ -5835,9 +5831,7 @@
 </math>
 </region>
 <region region-id="357" height="278.21028363729289" width="471.76576531831955" actualWidth="471.76576531831955" actualHeight="278.21028363729289" top="8447.24409448819" left="56.69291338582677">
-<picture>
-<png item-idref="Rd02e9119458b48be" display-width="471.76576531832" display-height="278.210283637293" />
-</picture>
+<picture><png item-idref="Rd02e9119458b48be" display-width="471.76576531832" display-height="278.210283637293" /></picture>
 </region>
 <region region-id="358" width="604" actualWidth="604" actualHeight="18.4" top="8749.6062992125972" left="0">
 <text item-idref="R689d56dbadd4493a">
@@ -6538,9 +6532,7 @@
 </math>
 </region>
 <region region-id="394" height="256.04945147698993" width="487.81122837268776" actualWidth="487.81122837268776" actualHeight="256.04945147698993" top="9562.2047244094483" left="56.69291338582677">
-<picture>
-<png item-idref="R669601a0dca4479c" display-width="487.811228372688" display-height="256.04945147699" />
-</picture>
+<picture><png item-idref="R669601a0dca4479c" display-width="487.811228372688" display-height="256.04945147699" /></picture>
 </region>
 <region region-id="395" width="604" actualWidth="604" actualHeight="18.4" top="9845.6692913385814" left="0">
 <text item-idref="R78c942c670f94bb6">
@@ -7082,9 +7074,7 @@
 </text>
 </region>
 <region region-id="427" height="259.78634870974139" width="494.35460945446073" actualWidth="494.35460945446073" actualHeight="259.78634870974139" top="10544.881889763779" left="56.69291338582677">
-<picture>
-<png item-idref="Raf33fd13d5494389" display-width="494.354609454461" display-height="259.786348709741" />
-</picture>
+<picture><png item-idref="Raf33fd13d5494389" display-width="494.354609454461" display-height="259.786348709741" /></picture>
 </region>
 <region region-id="428" width="604" actualWidth="604" actualHeight="20.963333333333335" top="10828.346456692912" left="0">
 <text item-idref="R3b1f4f9fcb8b406f">
@@ -8954,9 +8944,7 @@
 </text>
 </region>
 <region region-id="537" height="295.67488971692649" width="604.72440944881885" actualWidth="604.72440944881885" actualHeight="295.67488971692649" top="13039.370078740156" left="0">
-<picture>
-<png item-idref="R8da86e78c80649bd" display-width="604.724409448819" display-height="295.674889716926" />
-</picture>
+<picture><png item-idref="R8da86e78c80649bd" display-width="604.724409448819" display-height="295.674889716926" /></picture>
 </region>
 <region region-id="538" width="605" actualWidth="605" actualHeight="18.4" top="13360.629921259841" left="0">
 <text item-idref="R9c91b50381194c1e">
@@ -8964,9 +8952,7 @@
 </text>
 </region>
 <region region-id="539" height="324.53544496225106" width="604.72440944881885" actualWidth="604.72440944881885" actualHeight="324.53544496225106" top="13379.527559055117" left="0">
-<picture>
-<png item-idref="R424347b0bace4287" display-width="604.724409448819" display-height="324.535444962251" />
-</picture>
+<picture><png item-idref="R424347b0bace4287" display-width="604.724409448819" display-height="324.535444962251" /></picture>
 </region>
 <region region-id="540" width="605" actualWidth="605" actualHeight="18.4" top="13738.582677165354" left="0">
 <text item-idref="R6f5c52ef94734aa9">
@@ -8974,9 +8960,7 @@
 </text>
 </region>
 <region region-id="541" height="296.33907045760765" width="604.72440944881885" actualWidth="604.72440944881885" actualHeight="296.33907045760765" top="13889.763779527559" left="0">
-<picture>
-<png item-idref="R3a5ef8175eca401c" display-width="604.724409448819" display-height="296.339070457608" />
-</picture>
+<picture><png item-idref="R3a5ef8175eca401c" display-width="604.724409448819" display-height="296.339070457608" /></picture>
 </region>
 <region region-id="542" width="605" actualWidth="605" actualHeight="18.4" top="14211.023622047243" left="0">
 <text item-idref="Rf4ac15764b374343">
@@ -8984,9 +8968,7 @@
 </text>
 </region>
 <region region-id="543" height="300.9038620624014" width="604.72440944881885" actualWidth="604.72440944881885" actualHeight="300.9038620624014" top="14229.921259842518" left="0">
-<picture>
-<png item-idref="R2675b63a7a5e4c10" display-width="604.724409448819" display-height="300.903862062401" />
-</picture>
+<picture><png item-idref="R2675b63a7a5e4c10" display-width="604.724409448819" display-height="300.903862062401" /></picture>
 </region>
 <region region-id="544" width="605" actualWidth="605" actualHeight="18.4" top="14570.07874015748" left="0">
 <text item-idref="R0f7dcaf71bd0460a">
@@ -8994,9 +8976,7 @@
 </text>
 </region>
 <region region-id="545" height="303.10029069978503" width="604.72440944881885" actualWidth="604.72440944881885" actualHeight="303.10029069978503" top="14815.748031496061" left="0">
-<picture>
-<png item-idref="R80ff70d391bc4080" display-width="604.724409448819" display-height="303.100290699785" />
-</picture>
+<picture><png item-idref="R80ff70d391bc4080" display-width="604.724409448819" display-height="303.100290699785" /></picture>
 </region>
 <region region-id="546" width="605" actualWidth="605" actualHeight="18.4" top="15155.905511811023" left="0">
 <text item-idref="R0bc8101af7c64277">
@@ -9004,9 +8984,7 @@
 </text>
 </region>
 <region region-id="547" height="304.84872268568978" width="604.72440944881885" actualWidth="604.72440944881885" actualHeight="304.84872268568978" top="15174.803149606298" left="0">
-<picture>
-<png item-idref="R0d7a5796e63c489a" display-width="604.724409448819" display-height="304.84872268569" />
-</picture>
+<picture><png item-idref="R0d7a5796e63c489a" display-width="604.724409448819" display-height="304.84872268569" /></picture>
 </region>
 <region region-id="548" width="606" actualWidth="606" actualHeight="18.4" top="15514.960629921259" left="0">
 <text item-idref="R4931cd8fd75b41c3">
