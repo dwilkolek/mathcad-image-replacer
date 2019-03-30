@@ -1,0 +1,20 @@
+{
+  "name": "mcdx-repackager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pkg-out": "pkg --target node10-win-x64 --output release/mcdx_prepare.exe lokkssame.js",
+    "pkg-in": "pkg --target node10-win-x64 --output release/mcdx_create_updated.exe update.js",
+    "pkg": "npm run pkg-in && npm run pkg-out"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^3.0.0",
+    "extract-zip": "^1.6.7",
+    "image-size": "^0.7.2",
+    "looks-same": "^7.2.0",
+    "pkg": "^4.3.7"
+  }
+}
