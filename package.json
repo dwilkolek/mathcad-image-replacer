@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "pkg-out": "pkg --target node10-win-x64 --output release/mcdx_prepare.exe lokkssame.js",
+    "pkg-out": "pkg --target node10-win-x64 --output release/mcdx_prepare.exe prepare.js",
     "pkg-in": "pkg --target node10-win-x64 --output release/mcdx_create_updated.exe update.js",
     "pkg": "npm run pkg-in && npm run pkg-out"
   },
